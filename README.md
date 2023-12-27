@@ -34,9 +34,9 @@ Below are the topics that will be covered in the Shell Scripting Course, focusin
 - Reading user input
 - Displaying output to the terminal
 - Redirection and piping
-- File handling basics
 
 ## Module 7: File Handling
+- File handling basics
 - Reading and writing files
 - File permissions and attributes
 
