@@ -24,6 +24,7 @@ Below are the topics that will be covered in the Shell Scripting Course, focusin
 - Conditional statements (if, else, elif)
 - Case statements
 - Loops (for, while, until)
+- Control Statements (break, continue)
 
 ## Module 5: Functions in Shell Scripting
 - Defining and using functions
