@@ -67,7 +67,6 @@ Below are the topics that will be covered in the Shell Scripting Course, focusin
   - **Traffic Analysis:** Count and categorize page views, unique visitors, and popular pages.
   - **Error Detection:** Identify and report common errors (e.g., 404 errors, server errors).
   - **Report Generation:** Generate daily, weekly, and monthly reports summarizing key metrics.
-  - **Automation:** Schedule the script to run automatically and email reports to stakeholders.
 
 **Skills Demonstrated:**
 - Parsing and manipulating text files using Shell commands.
